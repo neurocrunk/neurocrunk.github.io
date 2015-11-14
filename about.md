@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I claim to be good at computers. I do security stuff for NCC Group. I like Sangria.
+:100::100::100::100::100::100::100::100::100::100::100::100::100::100::100::100::100:
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[leadford.jack@gmail.com](mailto:leadford.jack@gmail.com)
+[jack.leadford@nccgroup.trust](mailto:jack.leadford@nccgroup.trust)
